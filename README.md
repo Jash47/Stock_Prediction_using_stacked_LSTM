@@ -1,4 +1,4 @@
-#  Task 1 - Stock Prediction: Unveiling the Secrets of the Market 📈💰
+# Stock Prediction: Unveiling the Secrets of the Market 📈💰
 
 Welcome to the captivating realm of Task 1 - Stock Prediction! 🚀 This repository takes you on an exhilarating theoretical journey into the exciting world of predicting stock prices. Get ready to unlock the secrets hidden within historical stock data and delve into the mind-boggling concepts that drive successful forecasts. 
 
